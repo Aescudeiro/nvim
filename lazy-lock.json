@@ -1,4 +1,5 @@
 {
-  "lazy.nvim": { "branch": "main", "commit": "7967abe55752aa90532e6bb4bd4663fe27a264cb" },
-  "tokyonight.nvim": { "branch": "main", "commit": "15d83cda572d7498b43bbdaa223bc75bf341183e" }
+  "lazy.nvim": { "branch": "main", "commit": "56ead98e05bb37a4ec28930a54d836d033cf00f2" },
+  "tokyonight.nvim": { "branch": "main", "commit": "15d83cda572d7498b43bbdaa223bc75bf341183e" },
+  "vim-fugitive": { "branch": "master", "commit": "320b18fba2a4f2fe3c8225c778c687e0d2620384" }
 }
